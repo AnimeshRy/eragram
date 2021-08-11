@@ -1,7 +1,8 @@
-## EraGram - Not a Clone!
+## EraGram
 
 **Recreating Instagram's UI with React**: Who thought recreating one of most famous website could be this annoying ? It's not a clone though
 
+![img](ss.png)
 ### Notice:
 This project is currently uses firebase so the [website](https://vercel.com/animeshry/eragram) won't be acive as the build contains my firebase credentials. You are free to try the app locally with the instructions below.
 
